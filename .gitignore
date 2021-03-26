@@ -1,5 +1,6 @@
 *.class
 *.cache
+*.log
 
 .idea
 
