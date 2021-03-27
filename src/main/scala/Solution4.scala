@@ -51,7 +51,5 @@ object Solution4 {
     0.0
   }
 
-  private def isOdd(x: Int): Boolean = {
-    (x & 1) == 1
-  }
+  private def isOdd(x: Int): Boolean = 1 == (x & 1)
 }
