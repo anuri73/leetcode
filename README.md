@@ -11,4 +11,5 @@ Solutions:
 | 4  | Hard   | [Median of Two Sorted Arrays](src/resources/Task4.md) | [Solution4](src/main/scala/Solution4.scala) |
 | 5  | Medium | [Longest Palindromic Substring](src/resources/Task5.md) | [Solution5](src/main/scala/Solution5.scala) |
 | 6  | Medium | [ZigZag Conversion](src/resources/Task6.md) | [Solution6](src/main/scala/Solution6.scala) |
+| 7  | Easy   | [Reverse Integer](src/resources/Task7.md) | [Solution7](src/main/scala/Solution7.scala) |
 
