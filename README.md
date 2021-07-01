@@ -13,4 +13,5 @@ Solutions:
 | 6  | Medium | [ZigZag Conversion](src/resources/Task6.md) | [Solution6](src/main/scala/Solution6.scala) |
 | 7  | Easy   | [Reverse Integer](src/resources/Task7.md) | [Solution7](src/main/scala/Solution7.scala) |
 | 8  | Medium | [String to Integer (atoi)](src/resources/Task8.md) | [Solution8](src/main/scala/Solution8.scala) |
+| 8  | Easy   | [Palindrome Number](src/resources/Task9.md) | [Solution9](src/main/scala/Solution9.scala) |
 
