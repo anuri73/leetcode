@@ -1,6 +1,4 @@
-package scala
-
-object Solution6 {
+object Solution {
     def convert(s: String, numRows: Int): String = {
         if (1 == numRows) {
             return s

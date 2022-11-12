@@ -1,4 +1,4 @@
-object Solution2 {
+object Solution {
 
   class ListNode(_x: Int = 0, _next: ListNode = null) {
     var x: Int = _x

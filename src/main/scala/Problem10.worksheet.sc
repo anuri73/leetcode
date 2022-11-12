@@ -1,6 +1,4 @@
-package scala
-
-object Solution10 {
+object Solution {
     def isMatch(text: String, pattern: String): Boolean = {
         if (pattern.isEmpty) return text.isEmpty
 

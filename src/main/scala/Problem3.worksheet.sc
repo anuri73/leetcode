@@ -1,4 +1,4 @@
-object Solution3 {
+object Solution {
 
   def lengthOfLongestSubstring(s: String): Int = {
     import scala.math.max

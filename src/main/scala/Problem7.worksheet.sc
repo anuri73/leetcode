@@ -1,6 +1,4 @@
-package scala
-
-object Solution7 {
+object Solution {
     def reverse(x: Int): Int = {
         var copy = x
         var rev = 0

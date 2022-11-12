@@ -1,6 +1,6 @@
 import scala.math.{max, min}
 
-object Solution4 {
+object Solution {
   def findMedianSortedArrays(A: Array[Int], B: Array[Int]): Double = {
     if (A.length > B.length) {
       this.process(B, A)

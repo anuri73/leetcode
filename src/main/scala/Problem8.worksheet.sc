@@ -1,8 +1,6 @@
-package scala
-
 import scala.util.matching.Regex
 
-object Solution8 {
+object Solution {
     val numRE: Regex = "\\s*([+-]?)0*(\\d+).*".r
 
     def myAtoi(s: String): Int = s match {

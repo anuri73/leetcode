@@ -1,4 +1,4 @@
-object Solution5 {
+object Solution {
 
   def isPalindrome(str: String): Boolean = str.reverse.mkString == str
 
