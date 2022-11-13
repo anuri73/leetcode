@@ -17,4 +17,5 @@ Problems:
 | 10 | Hard   | [Regular Expression Matching](src/resources/Task10.md) | [Solution](src/main/scala/Problem10.worksheet.sc) |
 | 12 | Medium | [Integer to Roman](src/resources/Task12.md) | [Solution](src/main/scala/Problem12.worksheet.sc) |
 | 13 | Easy   | [Roman to Integer](src/resources/Task13.md) | [Solution](src/main/scala/Problem13.worksheet.sc) |
+| 151| Medium | [Reverse Words in a String](src/resources/Task151.md) | [Solution](src/main/scala/Problem151.worksheet.sc) |
 | 295| Hard   | [Find Median from Data Stream](src/resources/Task295.md) | [Solution](src/main/scala/Problem295.worksheet.sc) |
