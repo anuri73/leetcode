@@ -19,4 +19,5 @@ Problems:
 | 13 | Easy   | [Roman to Integer](src/resources/Task13.md) | [Solution](src/main/scala/Problem13.worksheet.sc) |
 | 14 | Easy   | [Longest Common Prefix](src/resources/Task14.md) | [Solution](src/main/scala/Problem14.worksheet.sc) |
 | 151| Medium | [Reverse Words in a String](src/resources/Task151.md) | [Solution](src/main/scala/Problem151.worksheet.sc) |
+| 223| Medium | [Rectangle Area](src/resources/Task223.md) | [Solution](src/main/scala/Problem223.worksheet.sc) |
 | 295| Hard   | [Find Median from Data Stream](src/resources/Task295.md) | [Solution](src/main/scala/Problem295.worksheet.sc) |
