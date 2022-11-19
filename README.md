@@ -15,6 +15,7 @@ Problems:
 | 8  | Medium | [String to Integer (atoi)](src/resources/Task8.md) | [Solution](src/main/scala/Problem8.worksheet.sc) |
 | 9  | Easy   | [Palindrome Number](src/resources/Task9.md) | [Solution](src/main/scala/Problem9.worksheet.sc) |
 | 10 | Hard   | [Regular Expression Matching](src/resources/Task10.md) | [Solution](src/main/scala/Problem10.worksheet.sc) |
+| 11 | Medium | [Container With Most Water](src/resources/Task11.md) | [Solution](src/main/scala/Problem11.worksheet.sc) |
 | 12 | Medium | [Integer to Roman](src/resources/Task12.md) | [Solution](src/main/scala/Problem12.worksheet.sc) |
 | 13 | Easy   | [Roman to Integer](src/resources/Task13.md) | [Solution](src/main/scala/Problem13.worksheet.sc) |
 | 14 | Easy   | [Longest Common Prefix](src/resources/Task14.md) | [Solution](src/main/scala/Problem14.worksheet.sc) |
